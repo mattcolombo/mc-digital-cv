@@ -1,10 +1,8 @@
 # Mattia Colombo, PhD
 
-_Platform/DevOps engineering lead @ WBA_
+_Platform/DevOps engineering lead @WBA, UK based_
 
 [Email](mailto:colombomattia89@gmail.com) / [LinkedIn](https://linkedin.com/in/colombomattia89) / [GitHub](https://github.com/mattcolombo)
-
-United Kingdom
 
 ## Engineering Experience
 
