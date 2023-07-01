@@ -1,4 +1,4 @@
-# Mattia Colombo - CV
+# Mattia Colombo
 
 _Platform engineering lead @ WBA_
 
