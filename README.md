@@ -2,7 +2,7 @@
 
 _Platform engineering lead @ WBA_
 
-[Email](mailto:colombomattia89@gmail.com) / [LinkedIn](www.linkedin.com/in/colombomattia89) / [GitHub](https://github.com/mattcolombo)
+[Email](mailto:colombomattia89@gmail.com) / [LinkedIn](https://linkedin.com/in/colombomattia89) / [GitHub](https://github.com/mattcolombo)
 
 ## Engineering Experience
 
