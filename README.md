@@ -31,42 +31,44 @@ _Platform/DevOps engineering lead @WBA, Integraction CoE -- UK based_
   - Automation of Apigee provisioning, in particular for environments and virtualhosts as well as the complete provisioning process
 <br><br>
 
+## Project Highlight
+
+**Kafka Connect management CLI** [kafka-connect-cli](https://github.com/mattcolombo/kafka-connect-cli) <br>
+This is a project I worked on in my spare time outside of work. I created a CLI to manage Kafka Connect, get information about the cluster, workers and various assets deployed on the cluster and manage them. I decided to start working on this because in my day job I was always struggling with managing effectively Connect. The product offers a very good and complete Rest API that can be used to manage virtually all aspects of the product; working directly with the API is however quite slow and inefficient, so I set out to write a CLI following the style of the `kubectl` and `confluent` CLIs that could manage at least the most common aspect of Connect. As a secondary motive, I wrote the CLI in GO, using it to learn the language; since this is the language that Kubernetes and many modern cloud technologies use, it is a good idea to be at least somewhat familiar with it.
+
+Since the CLI uses the Rest API under the covers, it will work independently of the specific Kafka Connect implementation (such as any vendor implementations) as long as the host running theCLI has connectivity to the Connect cluster Rest API and the implementation allows the access to manage Connect through the Rest API.
+
 ## Professional Experience
 
 **Platform/DevOps Engineering Lead** @[WBA](https://www.walgreensbootsalliance.com/), Integraction CoE _(June 2021 - Present)_ <br>
-What I did
-  - how
-  - did
-  - I
-  - produce
-  - value
+In my technical lead role I am responsible for prototyping and proof of concepts for new technologies the business wishes to implement. I am also in charge of setting best practices across the engineering team and helping the engineers in the team follow them in the best way possible for each new technology that gets introduced
+  - I work closely with the platform technical architects and the platform Product Owner to set the roadmap for our team and help set and review the work of the team
+  - As before I spend some of my time working with the SA/development teams (both internal to the Integration CoE and external) in the early stages of a project, coaching them in the use of the platform, and helping them achieve the best possible results
+  - Currently working with management and in close contact with the RunOps teams in the company to establish an improved support model for the platform and agree on roles and responsibilities; this will also include coordinating the knowledge transfers from our team to the support teams
+  - Together with management I helped establish the best practice for external and internal teams to engage with platform engineering in an efficient way that is beneficial for everyone without impacting too much my team's goals and objectives
+  - Together with the other tech leads and our team manager, I have been responsible for building a fantastic diverse team, with all the skills we require to succeed in our mission
 <br><br>
 
 **Platform Engineer** @[WBA](https://www.walgreensbootsalliance.com/), Integraction CoE _(October 2020 - June 2021)_ <br>
-What I did
-  - how
-  - did
-  - I
-  - produce
-  - value
+  - Initially drafted in the cloud platform engineering team to develop the company's Kafka strategy and as the primary point of contact for the initial vendor interaction with Confluent
+  - As the Kafka/Confluent SME in the team, I was initially mainly responsible for development and roll-out of best practices and ways of working around Confluent products
+  - Responsible for building and maintaining in the WBA Azure cloud subscription the ancillary technologies to augment our use of Confluent Cloud. Main examples are Kafka Connect, ksqlDB and Confluent Control Center, deployed both in Azure VMs and k8s
+  - Expanded my role to work with all the vendor technologies in our team, including the first deployment of Apigee Hybrid to our k8s services, and the build and maintenance of Qlik Replicate, installed on Windows servers
+  - Big part of my role is also to interface with development team to discuss their requirements and coach them in the way the platform works, in order to enable them to follow best practices and prevent false starts with the development
 <br><br>
 
 **Graduate Software/DevOps Engineer** @[WBA](https://www.walgreensbootsalliance.com/) _(October 2018 - September 2020)_ <br>
-What I did
-  - how
-  - did
-  - I
-  - produce
-  - value
+  - Collaborated in the initial implementation of our automated deployment framework including all the technology stack used within the Integration CoE in the Azure cloud
+  - Produced independently a Proof of Concept aimed at expanding the capabilities of our automated deployment framework for SoftwareAG webMethods to include additional types of assets
+  - Collaborating in the transformation effort of the structure of Software Engineering within the Integration CoE. Main task was to try aligning standards (eg naming conventions and versioning) and ways of working across the technology stacks and across all teams
+  - Some experience working leading a small group of off-shore developers to deliver our business goals
+  - Worked in close contact with our teams near-shore and off-shore to achieve business goals
+  - Part of the Graduate programme run by Boots UK
 <br><br>
 
 **Science Teacher (KS4/5), Physics specialisation** @[NUAST](https://nuast.org.uk/) _(September 2017 - August 2018)_ <br>
-What I did
-  - how
-  - did
-  - I
-  - produce
-  - value
+  - Physics teacher working with both GCSE and A-Level students
+  - Secondary responsibility as tutor for a Year 12 group, including helping to apply for University and writing cover letter and recommendations
 <br><br>
 
 ## Qualifications and Certifications
